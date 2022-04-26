@@ -1,0 +1,19 @@
+h2{
+
+    background-color: cadetblue;
+    color: black;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    background-color: darkgoldenrod;
+    color: black;
+    text-align: center;
+}
+.title {
+    font-size: 65px;
+  }
+ 
